@@ -39,6 +39,7 @@ Comment ça ce passe sur le site ? Très simple, un utilisateur lambda arrive su
  * Choisir le langage dans lequel il souhaite l'effectuer
  * Faire l'exercice et le soumettre a l'équipe de validateur
  * Attendre que le code soit validé
+ * Un corrigé seras mis à disposition
  * Suivi du membre par le validateur une fois son code corriger, pour des améliorations, des remarques, de l'aide etc
  * Et on continue avec un nouvelle exercice
  * Et on répète les mêmes actions encore et toujours
